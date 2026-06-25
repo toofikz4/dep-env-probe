@@ -45,7 +45,7 @@ from setuptools import setup
 setup(
     name="dep-env-probe",
     version="1.0.0",
-    install_requires=["requests==2.31.0"],
+    install_requires=["requests==2.34.2"],
     tests_require=["pytest==7.0.0"],
     extras_require={"dev": ["flake8==6.0.0"]},
 )
