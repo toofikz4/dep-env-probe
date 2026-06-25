@@ -47,5 +47,5 @@ setup(
     version="1.0.0",
     install_requires=["requests==2.31.0"],
     tests_require=["pytest==7.0.0"],
-    extras_require={"dev": ["flake8==6.0.0"]},
+    extras_require={"dev": ["flake8==7.3.0"]},
 )
